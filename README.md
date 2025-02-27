@@ -21,7 +21,7 @@ This **Excel Sales Dashboard** helps analyze sales performance based on:
 🟢 **GitHub** – Version control & sharing    
 
 ## 📷 Dashboard Preview    
-[*(Attach screenshots of your dashboard here 📌)*  ](https://github.com/tabish-0/Excel-Dashboard/blob/main/Screenshot%202025-02-27%20121446.png)  
+[*(View Dashboard 📌)*  ](https://github.com/tabish-0/Excel-Dashboard/blob/main/Screenshot%202025-02-27%20121446.png)  
 
 ## 🔧 How to Use    
 1️⃣ **Download** the Excel file from the repository.    
